@@ -2,7 +2,7 @@ import streamlit as st
 import time
 
 #Título de la app
-st.title("Hola desde strealit cloud")
+st.title("Hola desde strealit Render.com")
 
 #Boton para mostrar el mensaje
 
